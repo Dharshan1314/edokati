@@ -1,1 +1,1 @@
-# edokati
+# edookati
